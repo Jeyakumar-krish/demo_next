@@ -34,3 +34,24 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+//Starting Opne Use this Command After You Con't Use
+
+git config --global user.email "Github Your Email"
+git Config --global user.name "github Your Username"
+
+git init 
+
+//regular Use THis command
+git add .
+git commit -m "Commit Message " //commit  Message
+
+git branch -M BranchName  
+
+git remote add origin https://github.com/Jeyakumar-krish/demo_next.git  //repostatory Url
+
+git push -u origin BranchName 
+
+git pull origin BranchName
