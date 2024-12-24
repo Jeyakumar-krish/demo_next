@@ -1,0 +1,9 @@
+import React from 'react'
+
+const Loading = () => {
+  return (
+    <div>Loading11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111</div>
+  )
+}
+
+export default Loading
