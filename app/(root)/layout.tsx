@@ -3,7 +3,7 @@ import React from 'react'
 const layout = ({ children } : {children: React.ReactNode}) => {
   return (
     <div>
-        <h1>Root</h1>
+        <h1>I am The Root</h1>
         {children}
     </div>
   )
